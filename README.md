@@ -6,13 +6,13 @@
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
 
 
-The main program can be built and ran by doing the following from the project top directory.
+## Basic Build Instructions
 
-1. mkdir build
-2. cd build
-3. cmake ..
-4. make
-5. ./ukf_highway
+1. Clone this repo.
+2. Make a build directory: `mkdir build && cd build`
+3. Compile: `cmake .. && make`
+4. Run it: `./ukf_highway`
+
 
 
 <img src="media/ukf_highway.png" width="700" height="400" />
@@ -39,10 +39,4 @@ The red spheres above cars represent the (x,y) lidar detection and the purple li
   * Windows: recommend using [MinGW](http://www.mingw.org/)
  * PCL 1.2
 
-## Basic Build Instructions
-
-1. Clone this repo.
-2. Make a build directory: `mkdir build && cd build`
-3. Compile: `cmake .. && make`
-4. Run it: `./ukf_highway`
 

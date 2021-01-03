@@ -1,3 +1,0 @@
-/home/ram/Udacity/SFND/SFND_Unscented_Kalman_Filter/build/CMakeFiles/edit_cache.dir
-/home/ram/Udacity/SFND/SFND_Unscented_Kalman_Filter/build/CMakeFiles/rebuild_cache.dir
-/home/ram/Udacity/SFND/SFND_Unscented_Kalman_Filter/build/CMakeFiles/ukf_highway.dir
